@@ -1,0 +1,18 @@
+[CREDENCIAISBD]
+namedb = NAME_DB_ESUS
+login = LOGIN_DB_ESUS
+senha = PWD_DB_ESUS
+port = PORT_DB_ESUS
+
+[CREDENCIAISEAS]
+address = IP_SERVIDOR_INSTALAÇÃO_DB_EAS
+login = LOGIN_DB_EAS
+senha = PWD_BD_EAS
+port = PORT_BD_EAS
+
+[CREDENCIALSMTP]
+email = EMAIL
+auth = PWD_EMAIL
+
+[UTILS]
+version_app = VERSION_APP_MANUAL

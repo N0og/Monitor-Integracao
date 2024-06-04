@@ -1,0 +1,9 @@
+{
+    "UF": {
+        "MUNICIPIO": "NOME DO BANCO"
+    },
+    "UF": {
+        "MUNICIPIO": "NOME DO BANCO",
+        "MUNICIPIO 2": "NOME DO BANCO 2"
+    }
+}

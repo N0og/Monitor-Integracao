@@ -1,0 +1,15 @@
+{
+  "UF": {
+    "MUNICIPIO": {
+      "INSTALAÇÃO": "IP DA INSTALAÇÃO"
+    }
+  },
+  "UF": {
+    "MUNICIPIO": {
+      "INSTALAÇÃO": "IP DA INSTALAÇÃO"
+    },
+    "MUNICIPIO 2": {
+      "INSTALAÇÃO": "IP DA INSTALAÇÃO"
+    }
+  }
+}

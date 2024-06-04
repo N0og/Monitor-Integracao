@@ -1,0 +1,6 @@
+{
+    "DESTINATARIOS":{
+        "SUPORTE": "suporte@exemplo.com.br",
+        "DEV": "dev@exemplo.com.br"
+    }
+}

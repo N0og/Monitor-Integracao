@@ -1,0 +1,9 @@
+[NOTA TÉCNICA]
+
+- Versão:v2.0.1
+- Desenvolvido por: Gabriel S. Nogueira
+
+[FEATURES]
+
+- Aprimoramento de código e performance.
+- Correção em Sistematização de Relatório Final.
